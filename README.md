@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mihirjoshi26
-- 👀 I’m interested in HTML,JAVA,CSS,C++,ADVANCEJAVA,JAVASCRIPT
-- 🌱 I’m currently learning Android
+- 👀 I’m interested in HTML,JAVA,CSS,C++,JAVASCRIPT
 - 📫 How to reach me mail me mihir26joshi@gmail.com
 
 <!---
