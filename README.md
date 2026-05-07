@@ -5,19 +5,20 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Engineer;ARM+%7C+LPC2129+Developer;C+%7C+C%2B%2B+Programmer;Hardware+Debugging+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Transitioning+from+Java+Development;ARM+%7C+STM32+%7C+ESP32+Firmware;Low-Level+C+%2F+C%2B%2B+Programmer;RTOS+%7C+Bare-Metal+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-🔭 I'm currently working on **Embedded Systems (ARM, LPC2129)**  
-👯 I'm looking to collaborate on **Embedded C & Microcontroller Projects**  
-🤝 I'm looking for help with **Advanced Driver Development & RTOS**  
-🌱 I'm currently learning **ARM Architecture & Low-Level Programming**  
-💬 Ask me about **C Programming, GPIO, Timers, Interrupts**  
-⚡ Fun fact: **I love debugging hardware more than software 😄**
+**Aspiring Embedded Systems Engineer** currently transitioning from **Full-Stack Java Development** into firmware and low-level systems programming.
+
+I spent the last few years building scalable web applications with Spring Boot, React, and microservices. Now, I'm channeling that software engineering discipline into **embedded systems** — writing efficient, reliable, and real-time firmware for microcontrollers.
+
+🔭 Currently working on **ARM (LPC2129)**, **STM32**, and **ESP32** projects  
+🌱 Deep diving into: **Bare-metal programming, RTOS (FreeRTOS), ARM Architecture, Peripheral Drivers, and Hardware Debugging**  
+💬 Ask me about: **C Programming, GPIO, Timers, UART, Interrupts, ADC, PWM, or Spring Boot architecture**
 
 ---
 
@@ -25,95 +26,77 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.mihirjoshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirjoshi)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihir26joshi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mihir26joshi@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.mihirjoshi)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🔧 Embedded & Low-Level
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### **Embedded Systems & Firmware** (Current Focus)
 
-### 🌐 Web & Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white)
 
-### 🗄️ Database & ORM
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+**Microcontrollers:** LPC2129 (ARM7), STM32, ESP32/ESP8266  
+**Skills:** Bare-metal Programming, GPIO, Timers, UART, I2C, SPI, ADC, PWM, Interrupts, RTOS, Hardware Debugging
 
-### ⚙️ Tools & Platforms
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### **Software Engineering** (Past Experience & Transferable Skills)
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Other:** Hibernate, REST APIs, Microservices, Tailwind CSS, Git, Maven, Agile, System Design
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirjoshi26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mihirjoshi26&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjoshi26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mihirjoshi26&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mihirjoshi26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjoshi26&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Featured Projects
 
-<div align="center">
+### **Embedded Projects** (Actively Adding)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mihirjoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- **LPC2129 ARM Development Board Projects** — GPIO, Timer, UART, Interrupt & ADC drivers (Bare-metal)
+- **FreeRTOS on STM32** — Task scheduling, semaphores, mutexes, and inter-task communication
+- **ESP32 IoT Projects** — WiFi + MQTT + Sensor integration with low-power modes
 
-</div>
+### **Software Projects** (Selected)
 
----
+- **[Crypto Trading Platform](https://github.com/yourrepo)** — Full-stack Spring Boot + React application with real-time data, JWT auth, and payment gateway integration.
+- **[HR Management System](https://github.com/yourrepo)** — Spring Boot + Thymeleaf application with role-based access control and automated workflows.
 
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-</div>
+> *More embedded projects coming soon — currently migrating my focus from backend to firmware.*
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🏆 Currently Learning
 
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=mihirjoshi26&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
+- Advanced ARM Cortex-M architecture
+- Writing production-grade peripheral drivers
+- Real-Time Operating Systems (FreeRTOS)
+- Power optimization and debugging techniques
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mihirjoshi26&color=brightgreen&style=flat-square)
-
-⭐ **If you find my work helpful, consider giving a star!** ⭐
-
+  <img src="https://komarev.com/ghpvc/?username=mihirjoshi26&color=00bfae&style=flat-square&label=Profile+Views" />
+  
+  **Open to collaboration on Embedded C, ARM, STM32, and RTOS projects!** 🚀
 </div>
 
 <!-- Footer -->
