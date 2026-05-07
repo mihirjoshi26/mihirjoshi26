@@ -5,21 +5,21 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;STM32+%7C+ESP32+%7C+ARM+Microcontrollers;Former+Java+%26+Spring+Boot+Developer;Hardware-Software+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Embedded+Systems+Engineer;Transitioning+from+Java+Development;ARM+%7C+LPC2129+Developer;Embedded+C+%7C+C%2B%2B+Programmer;Low-Level+Programming+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-I am a Computer Engineering graduate with a strong foundation in backend development, currently transitioning into my true passion: **Embedded Systems Development**. I love bridging the gap between software and hardware!
+**Aspiring Embedded Systems Engineer** transitioning from **Java / Full-Stack Development** into **firmware and low-level embedded programming**.
 
-🔭 I'm currently building projects with **C/C++, STM32/ARM, ESP32, and RTOS**  
-💼 Previously worked as a **Java Developer Intern**, building robust MVC applications  
-🌱 I'm currently learning **Low-Level Programming & Hardware Debugging**  
-👯 I'm looking to collaborate on **Firmware Development & Microcontroller Projects**  
-💬 Ask me about **C/C++, Java, Spring Boot, or Hardware-Software Integration**  
-⚡ Fun fact: **I enjoy debugging hardware circuits just as much as writing scalable software! 😄**
+I have experience in building web applications using **Java, Spring Boot, React, and MySQL**. Currently, I am shifting my focus toward **Embedded Systems**, especially **ARM-based microcontrollers**, low-level programming, and hardware-software integration.
+
+🔭 Currently working on **ARM / LPC2129 Embedded Development**  
+🌱 Currently learning **ARM Architecture, Embedded C, Peripheral Programming, and RTOS Concepts**  
+💬 Ask me about **C Programming, GPIO, Timers, UART, Interrupts, Java, Spring Boot, and REST APIs**  
+⚡ Fun fact: **I enjoy debugging hardware and understanding how things work at register level**
 
 ---
 
@@ -27,50 +27,96 @@ I am a Computer Engineering graduate with a strong foundation in backend develop
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirjoshi)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.mihirjoshi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihir26joshi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirjoshi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mihir26joshi@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.mihirjoshi)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🔧 Embedded Systems & Low-Level
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=freertos&logoColor=229845)
+### 🔧 Embedded Systems & Firmware — Current Focus
 
-### ☕ Backend & Architecture (Previous Experience)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Frontend & Databases
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+**Microcontroller / Architecture:** ARM, LPC2129  
+**Embedded Skills:** GPIO, Timers, UART, Interrupts, ADC, PWM, Register-Level Programming  
+**Currently Learning:** RTOS Concepts, Driver Development, Hardware Debugging
 
 ---
 
-## 💼 Experience & Featured Projects
+### 💻 Java & Web Development — Past Experience
 
-* **Java Developer Intern @ Cahoot Technologies** *(Jan 2025 – Apr 2025)*
-  * Developed a comprehensive HR management system using Spring Boot, Spring MVC, and MySQL. Implemented role-based access control and automated notifications.
-* **Crypto Trading Platform** *(Spring Boot, React, Tailwind CSS)*
-  * Full-stack application with real-time CoinGecko API data, JWT authentication, and payment gateway integration.
-* **Embedded Systems Projects** *(In Progress)*
-  * Currently building real-world firmware solutions using STM32/ESP32 microcontrollers, focusing on efficient hardware-software integration.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+**Backend Skills:** Spring Boot, Spring MVC, REST APIs, Hibernate/JPA, JWT Authentication  
+**Tools:** Maven, Postman, JUnit, Eclipse
+
+---
+
+### 🌐 Frontend & Database
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 Embedded Projects — Current Focus
+
+#### ARM LPC2129 Peripheral Programming
+
+- GPIO programming using register-level access
+- LED blinking and button interfacing
+- Timer-based delay generation
+- UART serial communication
+- Interrupt handling basics
+- ADC and PWM practice modules
+
+> Currently building and uploading more ARM/LPC2129 based embedded projects.
+
+---
+
+### 💻 Java / Web Projects
+
+#### Crypto Trading Platform
+
+- Built a full-stack cryptocurrency trading application using **Spring Boot + React**
+- Integrated real-time crypto price data using external APIs
+- Implemented JWT-based authentication
+- Added wallet management and transaction history features
+
+#### HR Management System
+
+- Developed an HR management system using **Spring Boot, Spring MVC, Thymeleaf, and MySQL**
+- Implemented role-based access control
+- Added leave tracking and employee management modules
+- Optimized database queries for better performance
+
+#### Find My Lawyer
+
+- Built a lawyer-client platform using **PHP and MySQL**
+- Added lawyer search, appointment scheduling, and profile management features
 
 ---
 
@@ -78,21 +124,43 @@ I am a Computer Engineering graduate with a strong foundation in backend develop
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirjoshi26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirjoshi26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mihirjoshi26&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mihirjoshi26&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjoshi26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirjoshi26&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mihirjoshi26&color=brightgreen&style=flat-square)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mihirjoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-⭐ **If you find my work helpful, consider giving a star!** ⭐
+</div>
+
+---
+
+## 📌 Current Learning Roadmap
+
+- ARM architecture fundamentals
+- LPC2129 peripheral programming
+- Embedded C best practices
+- UART, SPI, I2C, ADC, PWM
+- Interrupts and timers
+- RTOS fundamentals
+- Hardware debugging techniques
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mihirjoshi26&color=00bfae&style=flat-square&label=Profile+Views)
+
+⭐ **Open to Embedded C, ARM, LPC2129, and firmware development opportunities.** ⭐
 
 </div>
 
